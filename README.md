@@ -1,6 +1,6 @@
 # bookmark_day_1
 
-### user story: 
+### user story:
 
 `As a user,`
 `So that I can quickly revisit my favourite websites,`
@@ -10,3 +10,5 @@
 ### domain model
 
  USER ==> Bookmars ==> Display on the website
+
+![Domain_Model](./images/Bookmarks_Domain_Model.png)

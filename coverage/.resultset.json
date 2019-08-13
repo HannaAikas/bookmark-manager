@@ -32,19 +32,20 @@
         null,
         null,
         1,
-        1,
+        2,
         null,
         null,
         null
       ],
       "/Users/hannaaikas/Projects/bookmark_day_1/spec/bookmark_spec.rb": [
+        1,
         null,
+        1,
+        1,
+        1,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        1,
+        1,
         null,
         null
       ],
@@ -67,6 +68,6 @@
         null
       ]
     },
-    "timestamp": 1565622498
+    "timestamp": 1565622676
   }
 }
