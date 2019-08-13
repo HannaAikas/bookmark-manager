@@ -1,16 +1,18 @@
-require 'sinatra/base'
 # require 'sinatra'
 # require 'capybara/dsl'
 # require 'selenium-webdriver'
-# require 'bookmark'
+
+require 'sinatra/base'
+require 'bookmark'
 
 class BookmarkManager < Sinatra::Base
   get '/' do
-    erb :index
+    'Bookmark Manager'
   end
+
   get '/bookmarks' do
     @bookmarks = Bookmark.all
-    erb :bookmarks
+    erb :'bookmarks/index'
   end
 
   run! if app_file == $0

@@ -1,6 +1,6 @@
 feature 'index page' do
   scenario 'user can see index page' do
     visit('/')
-    expect(page).to have_content "Hello, welcome to Bookmark Manager"
+    expect(page).to have_content "Bookmark Manager"
   end
 end
