@@ -1,43 +1,11 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/hannaaikas/Projects/bookmark_day_1/app.rb": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/hannaaikas/Projects/bookmark_day_1/lib/bookmark.rb": [
-        1,
-        null,
-        1,
-        null,
-        null,
-        1,
-        2,
-        null,
-        null,
-        null
-      ],
       "/Users/hannaaikas/Projects/bookmark_day_1/spec/bookmark_spec.rb": [
         1,
         null,
         1,
-        null,
+        1,
         1,
         1,
         null,
@@ -66,6 +34,6 @@
         null
       ]
     },
-    "timestamp": 1565701753
+    "timestamp": 1565726435
   }
 }
