@@ -9,6 +9,4 @@
 
 ### domain model
 
- USER ==> Bookmars ==> Display on the website
-
 ![Domain_Model](./images/Bookmarks_Domain_Model.png)
