@@ -5,8 +5,8 @@ describe Bookmark do
     it 'shows a list of bookmarks' do
       bookmarks = Bookmark.all
 
-      expect(bookmarks).to include "https://www.bbc.co.uk/weather/2643743"
-      expect(bookmarks).to include "https://tfl.gov.uk/tube-dlr-overground/status/"
+      expect(bookmarks).to include "http://www.makersacademy.com"
+      expect(bookmarks).to include "http://www.destroyallsoftware.com"
     end
   end
 end
