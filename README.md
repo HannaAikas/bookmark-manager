@@ -1,10 +1,15 @@
 # Bookmark Manager Challenge (Week 4)
 
 ## User story:
-
+### First story:
 `As a user,`
 `So that I can quickly revisit my favourite websites,`
 `I want to see list of bookmarks`
+
+### Second story:
+`As a user`
+`So that I can store new bookmarks`
+`I want to be able to add new bookmarks to my list`
 
 ## Domain model:
 
