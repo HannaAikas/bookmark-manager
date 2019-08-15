@@ -3,19 +3,9 @@
     "coverage": {
       "/Users/hannaaikas/Projects/bookmark_day_1/spec/bookmark_spec.rb": [
         1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
         1,
         null,
         1,
-        null,
         1,
         1,
         1,
@@ -24,11 +14,42 @@
         1,
         1,
         1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
         null,
         null,
         null
       ],
+      "/Users/hannaaikas/Projects/bookmark_day_1/spec/database_helpers.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
       "/Users/hannaaikas/Projects/bookmark_day_1/spec/features/add_bookmark_spec.rb": [
+        1,
         1,
         1,
         1,
@@ -66,6 +87,6 @@
         null
       ]
     },
-    "timestamp": 1565795513
+    "timestamp": 1565896639
   }
 }
