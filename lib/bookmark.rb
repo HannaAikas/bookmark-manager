@@ -1,4 +1,5 @@
 require 'pg'
+require 'uri'
 
 class Bookmark
 
@@ -24,7 +25,7 @@ class Bookmark
   end
 
   def self.create(url:, title:)
-    # return false unless is_url?(url)
+    return false unless url =~ URI::regexp
     if ENV['ENVIRONMENT'] == 'test'
       connection = PG.connect(dbname: 'bookmark_manager_test')
     else
