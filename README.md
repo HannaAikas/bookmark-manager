@@ -11,6 +11,11 @@
 `So that I can store new bookmarks`
 `I want to be able to add new bookmarks to my list`
 
+### Third story:
+`As a user`
+`So that I can delete bookmarks I no longer need`
+`I want to be able to delete bookmarks from my list`
+
 ## Domain model:
 
 ![Domain_Model](./images/Bookmarks_Domain_Model.png)
